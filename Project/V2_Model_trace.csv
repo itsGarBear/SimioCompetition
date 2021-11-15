@@ -1,0 +1,6 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0,Patients.49,SrcPatient,0.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Unable to get value of property 'SrcPatient.AssignmentsBeforeExiting.AssignmentsBeforeExitingNewValue'.
+0,Patients.49,SrcPatient,0.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Invalid parameters for Discrete probability distribution.
+0,Patients.49,SrcPatient,0.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Possible causes:
+0,Patients.49,SrcPatient,0.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,A cumulative probability parameter is not in range 0 to 1; last cumulative probability parameter is not 1;  missing value.
+
