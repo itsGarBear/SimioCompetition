@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+2.28114329391725,Patients.93,Model,25.LabTech,[Seize] NurseSeize,Unable to get value of property 'Seize.ResourceSeizes.DestinationNode'.
+2.28114329391725,Patients.93,Model,25.LabTech,[Seize] NurseSeize,Invalid token type.
+
