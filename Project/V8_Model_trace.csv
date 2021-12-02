@@ -1,4 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-2.28114329391725,Patients.93,Model,25.LabTech,[Seize] NurseSeize,Unable to get value of property 'Seize.ResourceSeizes.DestinationNode'.
-2.28114329391725,Patients.93,Model,25.LabTech,[Seize] NurseSeize,Invalid token type.
+27.4320241117421,Nurse[1],NurseWaitingRoom,59.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected
+27.4320241117421,Nurse[1],NurseWaitingRoom,59.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected at node 'NurseWaitingRoom'.
 
