@@ -1,4 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-29.250698427846,Nurse[4],NurseWaitingRoom,85.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected
-29.250698427846,Nurse[4],NurseWaitingRoom,85.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected at node 'NurseWaitingRoom'.
+28.0436368409578,Nurse[1],NurseWaitingRoom,74.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected
+28.0436368409578,Nurse[1],NurseWaitingRoom,74.OnEntered,[Transfer] ToOutboundLink,A potential transfer deadlock situation has been detected at node 'NurseWaitingRoom'.
 
